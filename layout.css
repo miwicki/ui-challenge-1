@@ -1,0 +1,16 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+ul {
+  float:left;
+}
+.mid1 {
+  display: inline;
+}
+
+.mid2 {
+  display: inline;
+}
+
+footer {
+  float:left;
+}
