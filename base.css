@@ -1,9 +1,13 @@
 body {
-  width:480px;
+  width:auto;
 }
 
 ul li {
   list-style: none;
+}
+
+ul {
+  width: auto;
 }
 
 #a {
@@ -32,25 +36,25 @@ ul li {
 
 #e {
   background-color:blue;
-  width:240px;
+  width:50%;
   height:250px;
 }
 
 #f {
   background-color:purple;
-  width:240px;
+  width:50%;
   height:250px;
 }
 
 #g {
   background-color:pink;
-  width:240px;
+  width:50%;
   height:250px;
 }
 
 #h {
   background-color:magenta;
-  width:240px;
+  width:50%;
   height:250px;
 }
 
